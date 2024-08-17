@@ -1,5 +1,4 @@
 import 'package:country_lists/data/vos/country_vo.dart';
-import 'package:country_lists/debouncer/debouncer.dart';
 import 'package:country_lists/provider/country_list/country_notifier.dart';
 import 'package:country_lists/provider/country_list/country_state.dart';
 import 'package:country_lists/widgets/country_list_view.dart';
